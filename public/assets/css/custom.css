@@ -1,0 +1,266 @@
+.account-pages {
+    margin: 6.5% auto !important;
+}
+
+#preloader {
+	background-color: #044ca3 !important;
+}
+
+#preloader #status .spinner>div {
+    background-color: #8ec53f !important;
+}
+
+#sidebar-menu>ul>li>a.active {
+    color: #044ca3 !important;
+}
+
+#sidebar-menu>ul>li>a.active i {
+    color: #8ec53f !important;
+}
+
+.button-menu-mobile {
+    background-color: #ffffff !important;
+    color: #000 !important;
+}
+
+.notification-list .nav-link {
+    color: #000 !important;
+}
+
+.topbar .navbar-custom {
+    background-color: #ffffff !important;
+}
+
+.nav-user img {
+    height: 40px !important;
+    width: 40px !important;
+    border: 2px solid black !important;
+    padding: 2px !important;
+}
+
+.nav-user:before {
+    background: rgb(0 0 0 / 20%) !important;
+}
+
+.card-header {
+	background-color: rgba(0,0,0,.01) !important;
+}
+
+.card-footer {
+	background-color: rgba(0,0,0,.01) !important;
+}
+
+.table-responsive table {
+    border: 2px solid #808080 !important;
+}
+
+.table-responsive table tr {
+    border: 1px solid #808080 !important;
+}
+
+.table-responsive table th {
+    border: 1px solid #808080 !important;
+}
+
+.table-responsive table td {
+    border: 1px solid #808080 !important;
+}
+
+.table-responsive table th {
+    text-align: center !important;
+    background-color: #DCDCDC !important;
+}
+
+.table-responsive .trthmain {
+    background-color: #BEBEBE !important;
+}
+
+.required {
+    color: red;
+}
+
+.form-control {
+    color: #495057 !important;
+}
+
+.radio-inline {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.select2-container .select2-selection--single {
+    height: 32px;
+    border: 1px solid #ced4da;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    line-height: 31px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 32px;
+}
+
+.dmtnsty {
+    /*width: 29% !important;*/
+    width: 21% !important;
+    display: inherit !important;
+}
+
+.booking .nav-item {
+    padding: 2px;
+    margin: 2px;
+}
+
+.booking .nav-item .nav-link, .booking .nav-link {
+    color: #495057;
+    border-color: #dee2e6 #dee2e6;
+}
+
+.booking .nav-item .nav-link.show, .booking .nav-link.active {
+    color: #495057;
+    background-color: #f5f5f5;
+    border-color: #000000;
+}
+
+.new-record i {
+    color: #000000;
+    font-size: larger;
+}
+
+.new-record span {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: small;
+}
+
+.new-record-icon {
+    color: #000000;
+    font-size: large;
+}
+
+.inscan-outscan-in-transit i {
+    color: #9E9E9E;
+    font-size: larger;
+}
+
+.inscan-outscan-in-transit span {
+    background-color: #9E9E9E;
+    color: #ffffff;
+    font-size: small;
+}
+
+.inscan-outscan-in-transit-icon {
+    color: #9E9E9E;
+    font-size: large;
+}
+
+.reason i {
+    color: #a30404;
+    font-size: larger;
+}
+
+.reason span {
+    background-color: #a30404;
+    color: #ffffff;
+    font-size: small;
+}
+
+.reason-icon {
+    color: #a30404;
+    font-size: large;
+}
+
+.out-for-delivery i {
+    color: #044ca3;
+    font-size: larger;
+}
+
+.out-for-delivery span {
+    background-color: #044ca3;
+    color: #ffffff;
+    font-size: small;
+}
+
+.out-for-delivery-icon {
+    color: #044ca3;
+    font-size: large;
+}
+
+.delivered i {
+    color: #8ec53f;
+    font-size: larger;
+}
+
+.delivered span {
+    background-color: #8ec53f;
+    color: #ffffff;
+    font-size: small;
+}
+
+.delivered-icon {
+    color: #8ec53f;
+    font-size: large;
+}
+
+.pod-attached i {
+    color: #8ec53f;
+    font-size: large;
+}
+
+.pod-attached span {
+    background-color: #8ec53f;
+    color: #ffffff;
+    font-size: small;
+}
+
+.pod-attached-icon {
+    color: #8ec53f;
+    font-size: large;
+}
+
+.footer {
+    padding: 20px 20px;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.dispay-width {
+    display: inherit;
+    width: auto;
+}
+
+.icon-sty {
+    padding: .275rem .75rem;
+}
+
+.loading_sty {
+    position: absolute;
+    margin-top: 20%;
+    z-index: 999999;
+    margin-left: 30%;
+    width: 200px;
+    height: 200px;
+}
+
+.first-capital {
+    text-transform: capitalize;
+}
+
+@media (max-width: 768px) {
+    .scrl {
+        overflow-y: scroll !important;
+        margin-right: 10px !important;
+    }
+    
+    .width-auto {
+        width: auto !important;
+    }
+
+}
